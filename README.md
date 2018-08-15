@@ -24,4 +24,6 @@ How to Setup Machine Learning Environment in Your PC or Laptop ? How to install 
 
 It Will Install all the Libraries one by one.
 
+After Installing all the Libraries, Use "Test_Modules.py" to Check all the librabies are installed properly.
+
 Thanks me Later..!!
